@@ -1,3 +1,3 @@
 # YoutubeApp
 
-<img src="https://giphy.com/gifs/5ictYxmbdcDydnTYP1/html5">
+<img src="https://media.giphy.com/media/5ictYxmbdcDydnTYP1/giphy.gif">
